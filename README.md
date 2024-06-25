@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aman Tiwari
+# Hi 👋, I'm Aman Tiwari 
 A Passionate Fullstack Developer
 
 # 👨‍🎓 About Me:
@@ -9,7 +9,7 @@ passionate toward learning new
 technologies. I'm a tech enthusiast who
 loves to code and program to help others
 by solving their real life problems. 
-### Undergrad at 🏫 DTU
+#### <div><a href='https://drive.google.com/file/d/1laDED3CWbTHiS1AYfLJBiW1-W5KymYsS/view?usp=sharing'>📄 My Resume</a></div>
 
 
 ## 🌐 Socials:
