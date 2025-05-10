@@ -27,8 +27,6 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 <a href="https://linkedin.com/in/aman-tiwari001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/aman_tiwari100" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a> <a href="https://discord.com/users/1031223667394347100" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/aman_tiwari.21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://t.me/tiwari_aman" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 
 
