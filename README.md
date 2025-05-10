@@ -6,7 +6,7 @@
 ## 📍 Short Bio
 🎓 *Pre-final year student at DTU*
 
-🏆 *7x Hackathon Winner*
+🏆 *8x Hackathon Winner*
 
 🧑‍💻 *Full-Stack Developer*
 
@@ -21,34 +21,17 @@
 ## 👨‍🎓 About Me
 I'm a highly enthusiastic student passionate about exploring new technologies and solving real-life problems through code. Always eager to learn and grow, I love tackling challenges and creating impactful projects.
 
-📄 **[Check out my Resume](https://drive.google.com/file/d/1laDED3CWbTHiS1AYfLJBiW1-W5KymYsS/view?usp=sharing)**
+📄 **[Check out my Resume](https://drive.google.com/file/d/1HrMBMmH45nIrdKfSDkIERW6ukqRsQ4sH/view?usp=sharing)**
 
 ---
 
 ## 🌐 Connect with Me
-<p>
- 
-  <a href="https://linkedin.com/in/aman-tiwari001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- 
-  <a href="https://x.com/aman_tiwari100" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.com/users/1031223667394347100" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/aman_tiwari.21/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  
-  <a href="@tiwari_aman" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
-  </a>
-  
-</p>
+
+## 🌐 Connect with Me
+
+<a href="https://linkedin.com/in/aman-tiwari001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/aman_tiwari100" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a> <a href="https://discord.com/users/1031223667394347100" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/aman_tiwari.21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://t.me/tiwari_aman" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+
+
 
 ---
 
@@ -66,7 +49,9 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
 ### 🛠️ Frontend
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -83,11 +68,12 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
 
 ### 🗄️ Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="[https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)" />
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />        
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />        
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />  
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />  
 </p>
 
 ### ⚙️ Tools
@@ -95,6 +81,7 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
