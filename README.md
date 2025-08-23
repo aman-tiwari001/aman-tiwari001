@@ -3,18 +3,20 @@
 
 ---
 
-## 📍 Short Bio
-🎓 *Pre-final year student at DTU*
+## 📍 About me
+🎓 *Final year student @ DTU*
 
 🏆 *8x Hackathon Winner*
 
 🧑‍💻 *Full-Stack Developer*
 
-🦾 *Skilled in MERN, TypeScript, Next.js, Web3*
+🦾 *Skilled in React/Next.js, Node.js, JS/TS, C++, MongoDb, GenAI, and Web3*
 
 🚀 *Building cutting-edge projects*
 
-💻 *Tech Enthusiast*
+💻 *Computer Science Enthusiast*
+
+💡 *Always open to exciting tech opportunities*
 
 ---
 
@@ -57,12 +59,6 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 🔐 Blockchain / Web3
-<p>
-  <img src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ethereum-%23265DAB.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" />
-</p>
 
 ### 🗄️ Backend & Databases
 <p>
@@ -74,20 +70,31 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />  
 </p>
 
-### ⚙️ Tools
+### ⚙️ Dev Tools & Deployments
 <p>
- 
+  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Git](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23202020.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/hostinger-%237E1FFF.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VPS](https://img.shields.io/badge/vps-%23007396.svg?style=for-the-badge&logo=virtualbox&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+
+</p>
+
+### 🔐 Blockchain / Web3
+<p>
+  <img src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ethereum-%23265DAB.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
 ---
@@ -96,14 +103,7 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-tiwari001&theme=react&hide_border=false" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-tiwari001&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-tiwari001&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </p>
 
 ---
