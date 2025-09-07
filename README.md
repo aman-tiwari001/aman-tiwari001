@@ -23,15 +23,15 @@
 ## 👨‍🎓 About Me
 I'm a highly enthusiastic student passionate about exploring new technologies and solving real-life problems through code. Always eager to learn and grow, I love tackling challenges and creating impactful projects.
 
-📄 **[Check out my Resume](https://drive.google.com/file/d/1HrMBMmH45nIrdKfSDkIERW6ukqRsQ4sH/view?usp=sharing)**
+📄 **[View My Resume](https://drive.google.com/file/d/1HrMBMmH45nIrdKfSDkIERW6ukqRsQ4sH/view?usp=sharing)**
 
 ---
 
-## 🌐 Connect with Me
+## 📞 Connect with Me
 
 <a href="https://linkedin.com/in/aman-tiwari001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/aman_tiwari100" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a> <a href="https://discord.com/users/1031223667394347100" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/aman_tiwari.21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://t.me/tiwari_aman" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 
-
+📧 <a href="mailto:amananjalitiwari2007@gmail.com" title="Email Aman">amananjalitiwari2007@gmail.com</a>
 
 ---
 
