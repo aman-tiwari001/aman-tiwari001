@@ -3,7 +3,7 @@
 
 ---
 
-## 📍 About me
+## 📍 Short bio
 🎓 *Final year student @ DTU*
 
 🏆 *8x Hackathon Winner*
