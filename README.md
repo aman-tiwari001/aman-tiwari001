@@ -10,7 +10,7 @@
 
 🧑‍💻 *Full-Stack Developer*
 
-🦾 *Skilled in React/Next.js, Node.js, JS/TS, C++, MongoDb, GenAI, and Web3*
+🦾 *Skilled in React/Next.js, Node.js, JS/TS, Python, C++, MongoDb, PostgreSQL, GenAI, and Web3*
 
 🚀 *Building cutting-edge projects*
 
@@ -44,6 +44,28 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+### 🤖 Artificial Intelligence (AI)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/huggingface-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/transformers-%2321222C.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-%2076B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-%230076A8.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="28" />
+  <img src="https://img.shields.io/badge/gemini-%230062FF.svg?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/ollama-%23121212.svg?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/langchain-%2303A67B.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-%231C3C3C.svg?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/qdrant-%23FF4D4D.svg?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/vector%20database-%23008FFD.svg?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/semantic%20search-%23008CFF.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
 </p>
 
 ### 🛠️ Frontend
@@ -65,9 +87,12 @@ I'm a highly enthusiastic student passionate about exploring new technologies an
   <img src="[https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)" />
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/drizzle%20orm-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/qdrant-%23FF4D4D.svg?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />        
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />  
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />  
 </p>
 
 ### ⚙️ Dev Tools & Deployments
